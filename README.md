@@ -1,3 +1,3 @@
-"Tugas Akhir GIT_Fendy Setyawan" 
+"Tugas Akhir GIT2_Fendy Setyawan" 
 TEST
 Test Pull
